@@ -7,7 +7,7 @@ import textwrap
 
 import pytest
 
-from flight_planner import (
+from flight_planner.flight_planner import (
     Flight,
     parse_time,
     format_time,

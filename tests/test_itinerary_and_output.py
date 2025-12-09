@@ -7,7 +7,7 @@ from pathlib import Path
 
 import pytest
 
-from flight_planner import (
+from flight_planner.flight_planner import (
     Flight,
     Itinerary,
     ComparisonRow,
